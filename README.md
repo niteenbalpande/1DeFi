@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1Defi is a platform that allows users to make payments in digital currency without the need for intermediaries. This means that transactions can be completed quickly and efficiently, without the need for third parties such as banks or payment processors
+=======
+1Defi is a platform that allows users to make payments in digital currency without the need for intermediaries. This means that transactions can be completed quickly and efficiently, without the need for third parties such as banks or payment process.
+>>>>>>> c32991637f9206d2cd81291bf3e58fd676c65a80
 
 ![Alt text](image.png)
 
@@ -6,4 +10,12 @@
 
 ![Alt text](image-1.png) ![Alt text](image-2.png)
 
+<<<<<<< HEAD
 1Defi, uses emerging technology to remove third parties and centralised institutions from financial transactions Such as- Blockchain network, Web 3.0, Metamask, Smart-Contracts
+=======
+1Defi, uses emerging technology to remove third parties and centralised institutions from financial transactions Such as-
+Blockchain network
+Web 3.0
+Metamask
+Smart-Contracts
+>>>>>>> c32991637f9206d2cd81291bf3e58fd676c65a80
