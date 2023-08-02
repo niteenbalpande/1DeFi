@@ -10,12 +10,9 @@
 
 ![Alt text](image-1.png) ![Alt text](image-2.png)
 
-<<<<<<< HEAD
 1Defi, uses emerging technology to remove third parties and centralised institutions from financial transactions Such as- Blockchain network, Web 3.0, Metamask, Smart-Contracts
-=======
 1Defi, uses emerging technology to remove third parties and centralised institutions from financial transactions Such as-
 Blockchain network
 Web 3.0
 Metamask
 Smart-Contracts
->>>>>>> c32991637f9206d2cd81291bf3e58fd676c65a80
