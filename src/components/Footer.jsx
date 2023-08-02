@@ -25,7 +25,7 @@ const Footer = () => (
 
     <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
       <p className="text-white text-left text-xs">@1Defi 2022-23</p>
-      <p className="text-white text-right text-xs">All rights reserved to the Owner under th Proprietary software license</p>
+      <p className="text-white text-right text-xs">All rights reserved to the Owner under the Proprietary software license</p>
     </div>
   </div>
 );
